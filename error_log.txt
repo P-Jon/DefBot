@@ -1,0 +1,1 @@
+Errors are printed here with a status code I.e. 403 with a timestamp.
